@@ -131,3 +131,9 @@ docker logs testtinywebserver
 
 This project is licensed under the **Creative Commons Zero (CC0)** license.
 You are free to use, modify, and distribute without restriction.
+
+## How to cite
+
+```
+Varona-Fong, H. V. (2025). Tiny WebServer Docker Image (1.0). Zenodo. https://doi.org/10.5281/zenodo.15399437
+```
