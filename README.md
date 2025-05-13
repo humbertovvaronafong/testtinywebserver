@@ -114,10 +114,9 @@ docker logs testtinywebserver
 
 ---
 
-## 🔗 Repositories
+## 🔗 Main repository
 
-- **GitHub Repository:** [https://github.com/humbertovvaronafong/tiny-webserver](https://github.com/humbertovvaronafong/tiny-webserver)
-- **Zenodo Archive:** [https://zenodo.org/record/99999999](https://zenodo.org/record/99999999)
+- **Zenodo Archive:** [https://zenodo.org/records/15399437](https://zenodo.org/records/15399437)
 
 ---
 
