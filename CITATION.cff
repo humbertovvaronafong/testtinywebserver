@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Tiny WebServer Docker Image"
+version: "v1.0"
+doi: "10.5281/zenodo.15399437"
+date-released: 2025-02-07
+authors:
+  - family-names: Varona-Fong
+    given-names: Humberto V.
+    name: H. V. Varona-Fong
+license: "CC0"
+preferred-citation:
+  type: software
+  title: "Tiny WebServer Docker Image"
+  version: "v1.0"
+  doi: "10.5281/zenodo.15399437"
+  authors:
+    - name: H. V. Varona-Fong
+  publisher: "Zenodo"
+  year: 2025
